@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
-title: Santago Lopez
+#Jekill configuration
+name: Santiago Lopez
 description: academic and personal projects
+markdown: kramdown
+#theme: jekyll-theme-cayman
+#title: Santiago Lopez
+remote-theme: tianqi.name/jekyll-text-theme 
