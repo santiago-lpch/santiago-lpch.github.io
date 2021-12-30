@@ -26,7 +26,7 @@ url                      : https://santiago-lopez.de # the base hostname & proto
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : santiago-lpch/santiago-lpch # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/avatar.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/avatar.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Santiago Lopez Portillo Chavez"
-  avatar           : /assets/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Born and raised in Guadalajara, Mexico, I emigrated to Germany at 18 to pursue higher education in physics. I am currently a PhD candidate at the University of Tübingen."
   location         : "Tübingen, DE"
   email            :
