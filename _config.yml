@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 title                    : "Santiago Lopez"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "homepage | academic and personal projects" # site tagline that appears below site title in masthead
 #name                     : "Your Name"
 #description              : "An amazing website."
 url                      : https://santiago-lopez.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,14 +104,14 @@ analytics:
 # Site Author
 author:
   name             : "Santiago Lopez Portillo Chavez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Born and raised in Guadalajara, Mexico, I emigrated to Germany at 18 to pursue higher education in physics. I am currently a PhD candidate at the University of Tübingen."
-  location         : "Somewhere"
+  location         : "Tübingen, DE"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: santiago.lopez-portillo-chavez@uni-tuebingen.de #"mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
