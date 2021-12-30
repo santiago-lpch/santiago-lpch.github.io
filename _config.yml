@@ -1,6 +1,6 @@
 #Jekill configuration
-name: Santiago Lopez
-description: academic and personal projects
+name: "Santiago Lopez"
+description: "homepage | academic and personal projects"
 #theme: jekyll-theme-cayman
 #title: Santiago Lopez
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Santiago Lopez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 #name                     : "Your Name"
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Santiago Lopez Portillo Chavez"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Born and raised in Guadalajara, Mexico, I emigrated to Germany at 18 to pursue higher education in physics. I am currently a PhD candidate at the University of Tübingen."
   location         : "Somewhere"
   email            :
   links:
