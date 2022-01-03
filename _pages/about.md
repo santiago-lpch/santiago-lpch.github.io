@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Biography and Contact*
+subtitle: Biography and Contact
 
 profile:
 
