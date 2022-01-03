@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Institut für theoretische Physik, D7 P34.</p>
     <p>Auf der Morgenstelle 14,</p>
-    <p>72076 Tübingen</p>
+    <p>72076 Tübingen.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

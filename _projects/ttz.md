@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: top-quark pair production in assoc. with lepton pair
+description: an NLO process implementation for POWHEG-BOX
+img: assets/pdf/gg2.pdf
 importance: 1
 category: work
 ---
