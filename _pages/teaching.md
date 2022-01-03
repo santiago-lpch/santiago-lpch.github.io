@@ -14,7 +14,7 @@ years: [Winter Term 19/20, Summer Term 2020, Winter Term 20/21, Summer Term 2021
 Starting from my mid masters degree, I have been a teaching assistant for several lectures of our department.  I have found that these teaching activities can be profoundly rewarding, as well as a good opprtunity to think again about more elementary subjects and solidify my own knowledge.
 
 <div class="publications">
-  <h1 class="year">2021/2022</h1>
+  <h2 class="year">2021/2022</h2>
   Moderne Physik A
   <h2 class="year">2021</h2>
   Fortgeschrittene Quantenfeldtheorie
