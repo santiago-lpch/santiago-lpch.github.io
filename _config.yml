@@ -105,13 +105,13 @@ analytics:
 author:
   name             : "Santiago Lopez Portillo Chavez"
   avatar           : "/assets/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Born and raised in Guadalajara, Mexico, I emigrated to Germany at 18 to pursue higher education in physics. I am currently a PhD candidate at the University of Tübingen."
+  bio              : "Born and raised in Guadalajara, Mexico, I emigrated to Germany at 18 to pursue a higher education in physics. I am currently a PhD candidate at the University of Tübingen."
   location         : "Tübingen, DE"
-  email            :
+  email            : "santiago.lopez-portillo-chavez@uni-tuebingen.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: santiago.lopez-portillo-chavez@uni-tuebingen.de #"mailto:your.name@email.com"
+       url: "mailto:santiago.lopez-portillo-chavez@uni-tuebingen.de" #"mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
