@@ -1,6 +1,6 @@
 ---
 layout: page
-title: $ttZ$
+title: ttZ
 description: top-quark pair production in association with two leptons
 img: assets/img/gg2.pdf
 importance: 1
