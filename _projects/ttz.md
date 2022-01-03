@@ -2,7 +2,7 @@
 layout: page
 title: ttZ
 description: top-quark pair production in association with two leptons
-img: assets/img/gg2.pdf
+img: assets/pdf/gg2.pdf
 importance: 1
 category: work
 ---

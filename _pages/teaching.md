@@ -5,7 +5,7 @@ title: teaching
 #description: Materials for courses you taught. Replace this text with your description.
 description: TA activities
 nav: true
-years: [Winter Term 19/20, Summer Term 2020, Winter Term 20/21, Summer Term 2021, Winter Term 21/22]
+#years: [Winter Term 19/20, Summer Term 2020, Winter Term 20/21, Summer Term 2021, Winter Term 21/22]
 ---
 
 #For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
