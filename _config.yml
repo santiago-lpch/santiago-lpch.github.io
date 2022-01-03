@@ -5,18 +5,18 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Santiago
 middle_name: ""
-last_name: Lopez
+last_name: Lopez Portillo Chavez
 email: santiago.lopez-portillo-chavez@uni-tuebingen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔥 # the emoji used as the favicon
+icon: U+269B  # 🔥 # the emoji used as the favicon
 #url: https://santiago-lpch.github.io # the base hostname & protocol for your site
 url: https://santiago-lopez.de
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/
@@ -53,12 +53,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
+github_username: santiago-lpch # your GitHub user name
+gitlab_username: santiago.lpch # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6017-2769 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -72,8 +72,8 @@ stackoverflow_id: #your stackoverflow id
 
 rss_icon: true
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: #>
+#  You can even add a little note about which of there is the best way to reach you.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -84,8 +84,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Santiago Lopez  # your blog must have a name for it to show up in the nav bar
+blog_description: a blog for sharing and discussing
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -93,7 +93,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname #USE ISSO INSTEAD https://posativ.org/isso/docs/quickstart/
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
