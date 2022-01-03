@@ -2,7 +2,7 @@
 layout: page
 title: top-quark pair production in assoc. with lepton pair
 description: an NLO process implementation for POWHEG-BOX
-img: assets/pdf/gg2.pdf
+img: assets/img/gg2.png
 importance: 1
 category: work
 ---
