@@ -1,7 +1,7 @@
 ---
 layout: page
-title: top-quark pair + lepton pair
-description: an NLO process implementation for POWHEG-BOX
+title: top quarks and leptons
+description: "an NLO QCD implementation of the $pp\to t\bar{t}\ell^+\ell^- for POWHEG-BOX"
 img: assets/img/gg2.png
 importance: 1
 category: work
