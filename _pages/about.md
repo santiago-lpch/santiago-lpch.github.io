@@ -9,7 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Istitut für thheoretische Physik,</p>
+    <p>Institut für theoretische Physik,</p>
     <p>D7 P34.</p>
     <p>Auf der Morgenstelle 14,</p>
     <p>72076 Tübingen</p>
