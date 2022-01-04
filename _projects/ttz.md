@@ -1,7 +1,7 @@
 ---
 layout: page
 title: top quarks and leptons
-description: "an NLO QCD implementation of the $pp \to t \bar{t} \ell^+ \ell^-$ process for POWHEG-BOX"
+description: "an NLO QCD implementation of the \(pp \to t \bar{t} \ell^+ \ell^-\) process for POWHEG-BOX"
 img: assets/img/gg2.png
 importance: 1
 category: work
@@ -9,12 +9,12 @@ category: work
 
 <div class="container">
   <div class="row justify-content-md-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col">
         {% include figure.html path="assets/img/gg2.png" title="LO diagram" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
   <div class="caption">
-    Exemplary leading-order diagram of the $ pp \to t\bar{t}\ell^+\ell^- $ process.
+    Exemplary leading-order diagram of the \( pp \to t\bar{t}\ell^+\ell^- \) process.
   </div>
 </div>
 
