@@ -8,7 +8,7 @@ category: work
 ---
 
 <div class="container-fluid">
-  <div class="row justify-content-md-center">
+  <div class="row justify-content-center">
     <div class="col-12">
         {% include figure.html path="assets/img/gg2.png" title="LO diagram" class="img-fluid rounded z-depth-1" %}
     </div>
