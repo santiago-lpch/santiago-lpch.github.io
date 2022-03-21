@@ -85,7 +85,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Santiago Lopez  # your blog must have a name for it to show up in the nav bar
-blog_description: a blog for sharing and discussing
+blog_description: a blog for sharing and discussing (under construction)
 permalink: /blog/:year/:title/
 
 # Pagination
