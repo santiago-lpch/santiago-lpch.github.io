@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Santiago Lopez | blog</title>
+    <title>Santiago Lopez | top quarks and leptons</title>
     <meta name="author" content="Santiago  Lopez Portillo Chavez" />
-    <meta name="description" content="Santiago Lopez' homepage
-" />
+    <meta name="description" content="an NLO QCD implementation for POWHEG-BOX" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://santiago-lopez.de/blog/">
+    <link rel="canonical" href="https://santiago-lopez.de/projects/ttz/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -66,8 +65,8 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
 
               <!-- Other pages -->
@@ -82,8 +81,8 @@
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -96,28 +95,52 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1>Santiago Lopez</h1>
-    <h2>a blog for sharing and discussing (under construction)</h2>
+          <header class="post-header">
+            <h1 class="post-title">top quarks and leptons</h1>
+            <p class="post-description">an NLO QCD implementation for POWHEG-BOX</p>
+          </header>
+
+          <article>
+            <div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="test-center">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/gg2-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/gg2-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/gg2-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/gg2.jpg" title="">
+  </picture>
+
+</figure>
+
+    </div>
   </div>
-
-
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
 </div>
+<div class="container">
+  <div class="caption">
+    Exemplary leading-order diagram of the \( pp \to t\bar{t}\ell^+\ell^- \) process.
+  </div>
+</div>
+
+<p>The top quark, discovered in 1995 at the <a href="https://en.wikipedia.org/wiki/Tevatron" target="_blank" rel="noopener noreferrer">Tevatron</a>, is the heaviest elementary particle we know of. The LHC at CERN has the capacity to produce an unprecedented number of them, allowing experimentalists to collect large amounts of data from processes in which top quarks are involved. To probe the couplings of top quarks to the electroweak \(W\) and \(Z\) bosons, people study production processes, such as \(pp \to t\bar{t}Z\) and \(pp \to t\bar{t}W^\pm\). Such processes are also important backgrounds to the associated production of the Higgs boson with a top quark pair \((pp \to t\bar{t}H)\). There have been previous calculations of these processes at NLO QCD precision, where the electroweak bosons have been treated in the narrow-width approximation. The goal of this project was to study the influence on key observables of a more complete description of the \(pp \to t\bar{t}Z\) process. We have implementesd the \(pp \to t\bar{t}\ell^+\ell^-\) process, which includes both \(Z\) boson and photon induced contributions. Thus, our calculation includes fully off-shell description of the \(Z\) boson, which can be compared to the studies of the \(pp \to t\bar{t}Z\) process that use the narrow-width approximation by imposing appropriate cuts on the invariant mass of the lepton pair. Furthermore, our implementation supports a handling of the top-quark decays that retains spin correlations. We have shown that these theoretical improvements of our implementation give rise to effects of the order of 10-20% in specific regions of the kinematic distributions of the final state, which are visible after matching to a parton shower and beyond the scale uncertainty due to a seven-point variation of  renormalization and factorization scales.</p>
+
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2022 Santiago  Lopez Portillo Chavez. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+        © Copyright 2022 Santiago  Lopez Portillo Chavez. Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> based on the <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
       </div>
     </footer>
